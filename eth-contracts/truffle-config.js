@@ -21,7 +21,6 @@
 const HDWalletProvider = require('truffle-hdwallet-provider');
 const infuraKey = "cbc62d5af91146aeafc46617b71e4849";
 const mnemonic = "exit baby admit practice own road muffin slot kind bless chase roof";
-const localMnemonic = "spirit supply whale amount human item harsh scare congress discover talent hamster";
 
 const hd = new HDWalletProvider(mnemonic, `https://rinkeby.infura.io/v3/${infuraKey}`);
 console.log('your address ', hd.addresses)

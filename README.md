@@ -49,7 +49,7 @@ From the root folder, run the command `node mint.js`, this would run and mint to
 ## OpenSea MarketPlace Storefront Link
 https://testnets.opensea.io/martialodev
 ## Tokens Original Owner (Minter):
-Address: 0xD3453B04d05dfEBe2C9Db78f0f5aa1df26A03547
+Address: 0xd774027d820F588d6bC9BB108396D5E132E86792
 Name on OpenSea: "martialodev"
 ## Tx Hashes for Selling Operations:
 ![img/transactions.png](img/transactions.png)
@@ -64,3 +64,9 @@ Name on OpenSea: "martialodev"
 * [Interactive zero knowledge 3-colorability demonstration](http://web.mit.edu/~ezyang/Public/graph/svg.html)
 * [Docker](https://docs.docker.com/install/)
 * [ZoKrates](https://github.com/Zokrates/ZoKrates)
+
+## Authors
+
+**twitter**: martialo dev [follow me](https://twitter.com/martialobug)
+
+**instagram**: martialo dev [follow me](https://www.instagram.com/martialo_dev/)

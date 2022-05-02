@@ -49,8 +49,14 @@ From the root folder, run the command `node mint.js`, this would run and mint to
 ## OpenSea MarketPlace Storefront Link
 https://testnets.opensea.io/martialodev
 ## Tokens Original Owner (Minter):
-Address: 0xd774027d820F588d6bC9BB108396D5E132E86792
+Address: 0x018C2daBef4904ECbd7118350A0c54DbeaE3549A
 Name on OpenSea: "martialodev"
+
+## Tokens Buyer:
+Address: [0xd774027d820F588d6bC9BB108396D5E132E86792](https://rinkeby.etherscan.io/address/0x018c2dabef4904ecbd7118350a0c54dbeae3549a)
+Name on OpenSea: "martialo"
+
+
 ## Tx Hashes for Selling Operations:
 ![img/transactions.png](img/transactions.png)
 
